@@ -11,6 +11,25 @@
 <body>
     <?php
         echo '<h1>Hola mundo</h1>';
+
+        echo 'Hola, programadores';
+
+        echo "<p>Hola, \"programadores\" ","¿Que tal?</p>";
+
+        echo "Hola!";
+
+        print('Esto lo hago con print');
+
+        //Esto es un comentario de una sola línea
+        # Esto es otro comentario de una sola línea
+
+        /*  
+            Esto es un comentario
+            que consta de varias líneas
+                e incluso puede ser indentado
+        */
+
     ?>
+
 </body>
 </html>
