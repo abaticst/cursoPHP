@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+</head>
+<body>
+    <form action="reciboDatos.php" method="POST">
+        <label for="nombre">*Nombre: </label><br/>
+            <input type="text" name="nombre" autofocus maxlength="20" size="45" required placeholder="Introduce tu nombre..."/><br/><br/>
+        <label for="apellidos">Apellidos:</label><br/>
+            <input type="text" name="apellidos" maxlength="45" size="45"/><br/><br/>
+        <label for="dni">DNI:</label><br/>
+            <input type="text" name="dni" size="45" maxlength="9" pattern="[0-9]{8}[A-Z]"/><br/><br/>
+        <label for="passwd">*Contraseña:</label><br/>
+            <input type="password" name="passwd" size="45" minlength="6" required maxlength="12" autocomplete="off"/><br/><br/>
+        <label for="correo"></label>*Email:<br/>
+            <input type="email" name="correo" size="45" required/><br/><br/>
+        <label for="comentarios">¿Algún comentario?</label><br/>
+            <textarea name="comentarios" placeholder="Deja aqui tus comentarios" cols="34" rows="4"></textarea><br/><br/>
+
+        <!--Aqui empieza la clase 3-->
+
+        <label for="numeros">¿Cuantos hermanos tienes?</label><br/>
+            <input type="number" name="numeros" max="5" min="0"/><br/><br/>
+        <label for="rango">¿Cuanto te gusta programar</label><br/>
+            <input type="range" name="rango" max="5" min="0"/><br/><br/>
+        <label for="colores">Color favorito:</label>
+            <input type="color" name="colores"/><br/><br/>
+        <label for="fecha">¿Qué día puedes incorporarte?</label>
+            <input type="date" name="fecha"/><br/><br/>
+        <!--  -->
+
+        <label for="profesion">¿A qué te quieres dedicar?</label><br/>
+            <input type="radio" name="profesion" value="FE" />Front-End
+            <input type="radio" name="profesion" value="BO" />Back-Office
+            <input type="radio" name="profesion" value="BO" />Full-Stack
+            <input type="radio" name="profesion" value="?" checked />De lo que salga<br/><br/>
+        
+        <label for="lenguajes">¿En qué lenguaje/s te gusta o sabes programar?</label><br/>
+            <input type="checkbox" name="lenguajes[PHP]" checked />PHP
+            <input type="checkbox" name="lenguajes[JScript]" />Javascript
+            <input type="checkbox" name="lenguajes[jQuery]" />jQuery
+            <input type="checkbox" name="lenguajes[JSP]" />JSP<br/><br/>
+
+        <!--Aqui termina la maravillosa clase numero 3-->
+
+        <input type="submit" name="enviar" value="Enviar mi formulario"/>
+        <input type="reset" name="borrar" value="Borrar todo"/>
+        <input type="button" name="tonto" value="No hacer nada"/>
+
+    </form>
+</body>
+</html>

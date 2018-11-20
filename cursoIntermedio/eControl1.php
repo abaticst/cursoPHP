@@ -12,31 +12,42 @@
     <?php
         
         /*
-            switch $opcion {
-                case 1 :
-                    instrucciones;
+            switch ($varaible) {
+                case valor1 :
+                    bloque de instrucciones;
                     break;
-                case 2 :
-                    instrucciones;
+                case valor2 :
+                    bloque de instrucciones;
                     break;
                 default :
-                    isntrucciones;
+                    bloque de instrucciones;
             }
         */
 
         $opcion = 2;
 
+        /*switch ($opcion) {
+            case 1 :
+                echo "Vale uno";
+                break;
+            case 2 :
+                echo "Vale dos";
+                break;
+            default :
+                echo "Opcion incorrecta";
+        }*/
+
         switch ($opcion) :
             case 1 : ?>
-                <h1>Opcion uno</h1>
+                <h1>Vale uno</h1>
                 <?php break;
             case 2 : ?>
-                <h2>Opcion dos</h2>
+                <h2>Vale dos</h2>
                 <?php break;
             default : ?>
                 <p>Opcion incorrecta</p>
-            <?php endswitch;
-
+        <?php endswitch;
     ?>
+    
 </body>
 </html>
