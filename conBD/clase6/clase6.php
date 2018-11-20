@@ -52,7 +52,7 @@
                 //}
                 
                 for($i=0;$i<$nfilas;$i++){
-                    echo $datos[$i];
+                    echo aasd$datos[$i];
                 }
             }
         }
