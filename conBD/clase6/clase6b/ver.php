@@ -1,4 +1,5 @@
 <?php
+    require_once 'datosconexion.php';
     $consulta = "select * from prueba";
     $resultado = mysqli_query($conexion,$consulta);
     $ncampos = mysqli_num_fields($resultado);

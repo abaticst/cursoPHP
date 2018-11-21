@@ -1,17 +1,10 @@
 <?php 
-    require_once '../../clase3/clase3.php';
-    mysqli_query($conexion,"SET NAMES 'utf8'");
-    /*if(!mysqli_select_db($conexion,'test')){
-        echo "<br/>Hubo un error al cambiar a la BBDD";
-    } else {
-        echo "<br/>BBDD seleccionada: test";
-    }*/
-    echo '<hr>';
+    require_once 'datosconexion.php';
 ?>
     <?php
         
         if(!empty($_POST['anadeusuario'])) {
-            $insertar = "insert into prueba (nombre,apellido1,fecha_insertar) values(?,?,now())";
+            $insertar = "insert into prueba (nombre,apellido1,fecha_insertar,hora_insertar) values(?,?,now(),now())";
 
             $prepararinsert = mysqli_prepare($conexion,$insertar);
             $nombre = $_POST['nombre'];

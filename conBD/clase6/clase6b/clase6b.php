@@ -1,12 +1,5 @@
 <?php
-    require_once '../../clase3/clase3.php';
-    mysqli_query($conexion,"SET NAMES 'utf8'");
-    if(!mysqli_select_db($conexion,'test')){
-        echo "<br/>Hubo un error al cambiar a la BBDD";
-    } else {
-        echo "<br/>BBDD seleccionada: test";
-    }
-    echo '<hr>';
+    require_once 'datosconexion.php';
 ?>
 
 <!DOCTYPE html>
