@@ -5,7 +5,7 @@
    
    $conexion = mysqli_connect("localhost","root","","cursophp");
    if (mysqli_connect_errno()){
-       echo "La conexión ha fallado: ".mysqli_connect_errno;
+       echo "La conexión ha fallado: ".mysqli_connect_errno();
    } else {
        echo "Conexión correcta";
    }
