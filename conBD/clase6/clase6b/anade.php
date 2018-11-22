@@ -1,5 +1,17 @@
 <?php 
-    require_once '../../clase3/clase3.php';
+    require_once 'datosconexion.php';
+        
+        if(!empty($_POST['anadeusuario'])) {
+            $insertar = "insert into prueba (nombre,apellido1,fecha_insertar,hora_insertar) values(?,?,now(),now())";
+
+            $prepararinsert = mysqli_prepare($conexion,$insertar);
+            $nombre = $_POST['nombre'];
+            $apellido = $_POST['apellido'];
+            $insertOK = mysqli_stmt_bind_param($prepararinsert,"ss",$nombre,$apellido);
+            $insertOK = mysqli_stmt_execute($prepararinsert) or die (mysqli_error());
+            mysqli_stmt_close($prepararinsert);
+            header('Location:clase6b.php');
+        }
 ?>
 <!DOCTYPE html>
 <html>
@@ -12,25 +24,13 @@
     <script src="main.js"></script>
 </head>
 <body>
-    <form method="post">
+    <form action="anade.php" method="post">
         <label for="nombre">Nombre: </label>
             <input type="text" name="nombre" size="20" maxlength="15" required/><br/><br/>
         <label for="apellido">Apellido:</label>
             <input type="text" name="apellido" size="20" maxlength="20" /><br/><br/>
         <input type="submit" name="anadeusuario" value="Añadir usuario"/>
     </form>
-    <?php
-        
-        /*if(!empty($_POST['anadeusuario'])) {
-            $insertar = "insert into prueba (nombre,apellido1) values(?,?)";
 
-            $prepararinsert = mysqli_prepare($conexion,$insertar);
-            $nombre = $_POST['nombre'];
-            $apellido = $_POST['apellido'];
-            $insertOK = mysqli_stmt_bind_param($prepararinsert,"ss",$nombre,$apellido);
-            $insertOK = mysqli_stmt_execute($prepararinsert) or die (mysqli_error());
-            mysqli_stmt_close($prepararinsert);
-        }*/
-    ?>
 </body>
 </html>

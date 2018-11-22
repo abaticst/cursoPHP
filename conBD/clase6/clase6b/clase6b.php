@@ -1,7 +1,6 @@
 <?php
     require_once 'datosconexion.php';
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -23,6 +22,8 @@
                     <input type="submit" name="anadir" value="Añadir datos"/>
                 <label for="modificar"></label>
                     <input type="submit" name="modificar" value="Modificar datos"/>
+                <label for="borrar"></label>
+                    <input type="submit" name="borrar" value="Borrar datos"/>
             
             
         </form>
@@ -30,9 +31,11 @@
             if(!empty($_POST['ver'])){
                 require_once 'ver.php';
             } elseif (!empty($_POST['anadir'])) {
-                require_once 'hola.php';
-            } else {
-                echo "Espero tu accion";
+                require_once 'anade.php';
+            } elseif (!empty($_POST['modificar'])){
+                require_once 'modificar.php';
+            } elseif (!empty($_POST['borrar'])){
+                require_once 'borrar.php';
             }
         ?>
 </body>

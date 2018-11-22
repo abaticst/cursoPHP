@@ -23,7 +23,8 @@
             id int(2) auto_increment primary key,
             nombre varchar(15) not null,
             apellido1 varchar(20),
-            fecha_insertar date)";
+            fecha_insertar date,
+            hora_insertar time)";
 
         if (!mysqli_query($conexion,$create)){
             echo mysqli_errno($conexion) . " - " . mysqli_error($conexion);
@@ -31,9 +32,9 @@
             echo "Tabla creada correctamente<br/><br/>";
 
             $insertar = "insert into prueba values
-            ('','Pablo','Delgado',now()),
-            ('','Isabel','Gonzalez',now()),
-            ('','Joaquin','Sanchez',now())";
+            ('','Pablo','Delgado',now(),now()),
+            ('','Isabel','Gonzalez',now(),now()),
+            ('','Joaquin','Sanchez',now(),now())";
 
             mysqli_query($conexion,$insertar);
 

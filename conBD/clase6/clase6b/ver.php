@@ -7,13 +7,12 @@
                 for($c=0;$c<$ncampos;$c++){
                     echo '<th>Campo ' . ($c+1) . '</th>';
                 }
-                    while($datos = mysqli_fetch_row($resultado)){
-                        echo '<tr>';
-                        foreach ($datos as $campo){
-                            echo '<td>' . $campo . '</td>';
-                        }
-                        echo '</tr>';
+                while($datos = mysqli_fetch_row($resultado)){
+                    echo '<tr>';
+                    foreach ($datos as $campo){
+                        echo '<td>' . $campo . '</td>';
                     }
-                //}
+                    echo '</tr>';
+                }
             echo '</table>';
 ?>
