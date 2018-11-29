@@ -15,7 +15,9 @@
 
     #add_action('the_post','muestra_frase');
 
-    add_action('get_sidebar','muestra_frase');
+    #add_action('get_sidebar','muestra_frase');
+
+    add_action('wp_footer','muestra_frase');
 
     function muestra_frase(){
         echo "Probando los action";
