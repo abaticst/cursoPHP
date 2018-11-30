@@ -3,7 +3,7 @@
         Creamos el fichero primer-plugin-output.php
 
         La función add_action se usa para asociar código a los ganchos o hooks de
-        WordPress. ¿Y qué son los hooks? Puntos concretos dentro del código fuente
+        WordPress. ¿Y qué son los hooks? Puntos concretos (ubicaciones) dentro del código fuente
         de WordPress donde podemos conectar nuestras propias funciones para
         modificar ciertos aspectos o comportamientos de nuestro sitio.
 
@@ -14,7 +14,7 @@
         Hay dos tipos de hooks: action hooks y filter hooks.
 
         *ACTION HOOKS -> Permiten añadir o quitar código en distintos puntos
-        de WordPress (ubicaciones)
+        de WordPress
 
         *FILTER HOOKS -> Permiten modificar datos que hay dentro del código
 
@@ -24,25 +24,6 @@
 
         Creamos segundo-plugin.php
 
-        /*
-
-        Plugin Name: emiliopm.com - Segundo plugin
-        Plugin URI:
-        Description: Este plugin añade el código de Google Analytics en el header de nuestro sitio
-        Version: 1.0
-        Author: Pablo Delgado
-        Author URI: https://emiliopm.com
-        License: GPLv3
-
-        *//*
-
-    add_action('wp_head','muestra_frase');
-
-    function muestra_frase(){
-        echo "Probando los action";
-    }
-
-    *//*
         Ahora en el add_action, cambiamos la ubicación del hook
 
         ¿De donde se sacan? De aquí https://codex.wordpress.org/Plugin_Resources

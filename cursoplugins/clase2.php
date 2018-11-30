@@ -7,6 +7,25 @@
 
         Nos vamos a plugins y creamos una carpeta llamada "primer-plugin"
 
+        La estructura dentro de la carpeta de un plugin suele ser:
+
+        * Nombre_del_plugin.php: archivo principal. Contiene una cabecera con los datos
+        estándar.
+
+        * uninstall.php: define la forma en la que el plugin será borrado correctamente
+
+        * index.php: es un fichero vacío PHP para ocultar la estructura de carpetas del plugin
+
+        * readme.txt: solo si el plugin se va a subir al repositorio wordpress
+
+        * admnin: directorio q contiene subdirectorios con ficheros .php, .css, .js etc para el backend
+
+        * languages: directorio que contiene las traducciones
+
+        * includes: directorio que contiene ficheros .php auxiliares
+
+        * public: directorio que contiene subdirectorios con ficheros para el frontend
+
         Creamos la cabecera en el fichero "primer-plugin-header.php"
 
         Si ahora vamos a nuestro wp-admin deberia aparecer. Lo activamos
@@ -26,20 +45,5 @@
         }
 
     */
-
-    /*
-
-    Plugin Name: emiliopm.com - Primer plugin
-    Plugin URI:
-    Description: Este será el mensaje que se visualice en el administrador
-    de plugins de WordPress
-    Version: 1.0
-    Author: Pablo Delgado
-    Author URI: https://emiliopm.com
-    License: GPLv3
-
-    */
-
-    echo 'Hola mundo';
     
 ?>  

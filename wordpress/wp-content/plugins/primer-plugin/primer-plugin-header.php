@@ -2,7 +2,7 @@
     /*
 
     Plugin Name: emiliopm.com - Primer plugin
-    Plugin URI:
+    Plugin URI: *enlace a la web del plugin, si la tuviera*
     Description: Este será el mensaje que se visualice en el administrador
     de plugins de WordPress
     Version: 1.0
