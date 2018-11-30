@@ -28,6 +28,12 @@
 
         Creamos la cabecera en el fichero "primer-plugin-header.php"
 
+        Además, todos los ficheros PHP de nuestro plugin deben llevar la línea de ABSPATH
+        para evitar que un usuario pueda ejecutar código PHP introduciendo la ruta directamente
+        en el navegador (imagina que ese código borra cosas de la BBDD, eso es inseguro)
+
+        Probamos: http://localhost/cursoPHP/wordpress/wp-content/plugins/primer-plugin/primer-plugin-header.php
+
         Si ahora vamos a nuestro wp-admin deberia aparecer. Lo activamos
 
         Obviamente, este plugin no hace nada.

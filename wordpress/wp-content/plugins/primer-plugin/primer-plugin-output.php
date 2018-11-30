@@ -11,6 +11,8 @@
 
     */
 
+    defined( 'ABSPATH' ) or die( '¿Donde vas?' );
+
     add_action('wp_head', 'primer_plugin_output');
 
     function primer_plugin_output(){ ?>

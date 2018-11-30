@@ -30,6 +30,8 @@
 
         Bajamos hasta "Plugin Development - Reference" y abrimos "Plugin API/Action Reference"
 
-        
+        Cambiamos ubicaciones
+
+        Añadimos el remove
     */
 ?>

@@ -11,6 +11,10 @@
     License: GPLv3
 
     */
+
+    defined( 'ABSPATH' ) or die( '¿Donde vas?' );
+
+    
     if (!is_admin()){
         echo 'Hola mundo';
     }

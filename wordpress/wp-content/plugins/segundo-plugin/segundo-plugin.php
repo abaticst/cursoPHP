@@ -11,6 +11,8 @@
 
     */
 
+    defined( 'ABSPATH' ) or die( '¿Donde vas?' );
+
     add_action('wp_head','muestra_frase');
 
     add_action('the_post','muestra_frase');
