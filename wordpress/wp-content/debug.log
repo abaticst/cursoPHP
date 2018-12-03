@@ -1,0 +1,272 @@
+[03-Dec-2018 12:23:48 UTC] PHP Parse error:  syntax error, unexpected 'cp_new_nav_menu_items' (T_STRING) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 14
+[03-Dec-2018 12:32:54 UTC] PHP Parse error:  syntax error, unexpected 'cp_new_nav_menu_items' (T_STRING) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 14
+[03-Dec-2018 12:33:00 UTC] PHP Parse error:  syntax error, unexpected 'cp_new_nav_menu_items' (T_STRING) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 14
+[03-Dec-2018 12:37:50 UTC] PHP Parse error:  syntax error, unexpected 'cp_new_nav_menu_items' (T_STRING) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 14
+[03-Dec-2018 12:48:11 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:48:11 UTC] PHP Stack trace:
+[03-Dec-2018 12:48:11 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:0
+[03-Dec-2018 12:48:11 UTC] PHP   2. require() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:17
+[03-Dec-2018 12:48:11 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-blog-header.php:13
+[03-Dec-2018 12:48:11 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:48:11 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:48:11 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:50:12 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:50:12 UTC] PHP Stack trace:
+[03-Dec-2018 12:50:12 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:0
+[03-Dec-2018 12:50:12 UTC] PHP   2. require() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:17
+[03-Dec-2018 12:50:12 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-blog-header.php:13
+[03-Dec-2018 12:50:12 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:50:12 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:50:12 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:51:43 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:51:43 UTC] PHP Stack trace:
+[03-Dec-2018 12:51:43 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:0
+[03-Dec-2018 12:51:43 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:10
+[03-Dec-2018 12:51:43 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin.php:31
+[03-Dec-2018 12:51:43 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:51:43 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:51:43 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:51:49 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:51:49 UTC] PHP Stack trace:
+[03-Dec-2018 12:51:49 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugin-install.php:0
+[03-Dec-2018 12:51:49 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugin-install.php:15
+[03-Dec-2018 12:51:49 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin.php:31
+[03-Dec-2018 12:51:49 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:51:49 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:51:49 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:51:53 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:51:53 UTC] PHP Stack trace:
+[03-Dec-2018 12:51:53 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugin-install.php:0
+[03-Dec-2018 12:51:53 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugin-install.php:15
+[03-Dec-2018 12:51:53 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin.php:31
+[03-Dec-2018 12:51:53 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:51:53 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:51:53 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:52:03 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:52:03 UTC] PHP Stack trace:
+[03-Dec-2018 12:52:03 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\update.php:0
+[03-Dec-2018 12:52:03 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\update.php:13
+[03-Dec-2018 12:52:03 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin.php:31
+[03-Dec-2018 12:52:03 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:52:03 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:52:03 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:52:08 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:52:08 UTC] PHP Stack trace:
+[03-Dec-2018 12:52:08 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:0
+[03-Dec-2018 12:52:08 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:10
+[03-Dec-2018 12:52:08 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin.php:31
+[03-Dec-2018 12:52:08 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:52:08 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:52:08 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:52:10 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:52:10 UTC] PHP Stack trace:
+[03-Dec-2018 12:52:10 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:0
+[03-Dec-2018 12:52:10 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:10
+[03-Dec-2018 12:52:10 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin.php:31
+[03-Dec-2018 12:52:10 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:52:10 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:52:10 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:52:14 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:52:14 UTC] PHP Stack trace:
+[03-Dec-2018 12:52:14 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:0
+[03-Dec-2018 12:52:14 UTC] PHP   2. require() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:17
+[03-Dec-2018 12:52:14 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-blog-header.php:13
+[03-Dec-2018 12:52:14 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:52:14 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:52:14 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:53:01 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:53:01 UTC] PHP Stack trace:
+[03-Dec-2018 12:53:01 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:0
+[03-Dec-2018 12:53:01 UTC] PHP   2. require() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:17
+[03-Dec-2018 12:53:01 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-blog-header.php:13
+[03-Dec-2018 12:53:01 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:53:01 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:53:01 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:53:05 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:53:05 UTC] PHP Stack trace:
+[03-Dec-2018 12:53:05 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:0
+[03-Dec-2018 12:53:05 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:10
+[03-Dec-2018 12:53:05 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin.php:31
+[03-Dec-2018 12:53:05 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:53:05 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:53:05 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:54:10 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:54:10 UTC] PHP Stack trace:
+[03-Dec-2018 12:54:10 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin-ajax.php:0
+[03-Dec-2018 12:54:10 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin-ajax.php:22
+[03-Dec-2018 12:54:10 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:54:10 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:54:10 UTC] PHP   5. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:55:10 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:55:10 UTC] PHP Stack trace:
+[03-Dec-2018 12:55:10 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin-ajax.php:0
+[03-Dec-2018 12:55:10 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin-ajax.php:22
+[03-Dec-2018 12:55:10 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:55:10 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:55:10 UTC] PHP   5. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:55:28 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:55:28 UTC] PHP Stack trace:
+[03-Dec-2018 12:55:28 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:0
+[03-Dec-2018 12:55:28 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:10
+[03-Dec-2018 12:55:28 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin.php:31
+[03-Dec-2018 12:55:28 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:55:28 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:55:28 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:55:38 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:55:38 UTC] PHP Stack trace:
+[03-Dec-2018 12:55:38 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\tools.php:0
+[03-Dec-2018 12:55:38 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\tools.php:10
+[03-Dec-2018 12:55:38 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin.php:31
+[03-Dec-2018 12:55:38 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:55:38 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:55:38 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:56:06 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:56:06 UTC] PHP Stack trace:
+[03-Dec-2018 12:56:06 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:0
+[03-Dec-2018 12:56:06 UTC] PHP   2. require() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:17
+[03-Dec-2018 12:56:06 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-blog-header.php:13
+[03-Dec-2018 12:56:06 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:56:06 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:56:06 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:56:42 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:56:42 UTC] PHP Stack trace:
+[03-Dec-2018 12:56:42 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin-ajax.php:0
+[03-Dec-2018 12:56:42 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin-ajax.php:22
+[03-Dec-2018 12:56:42 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:56:42 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:56:42 UTC] PHP   5. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:57:24 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:57:24 UTC] PHP Stack trace:
+[03-Dec-2018 12:57:24 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:0
+[03-Dec-2018 12:57:24 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:10
+[03-Dec-2018 12:57:24 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin.php:31
+[03-Dec-2018 12:57:24 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:57:24 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:57:24 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:57:28 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:57:28 UTC] PHP Stack trace:
+[03-Dec-2018 12:57:28 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:0
+[03-Dec-2018 12:57:28 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:10
+[03-Dec-2018 12:57:28 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin.php:31
+[03-Dec-2018 12:57:28 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:57:28 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:57:28 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:57:29 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:57:29 UTC] PHP Stack trace:
+[03-Dec-2018 12:57:29 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:0
+[03-Dec-2018 12:57:29 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:10
+[03-Dec-2018 12:57:29 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin.php:31
+[03-Dec-2018 12:57:29 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:57:29 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:57:29 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:57:32 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:57:32 UTC] PHP Stack trace:
+[03-Dec-2018 12:57:32 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:0
+[03-Dec-2018 12:57:32 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:10
+[03-Dec-2018 12:57:32 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin.php:31
+[03-Dec-2018 12:57:32 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:57:32 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:57:32 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:57:34 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:57:34 UTC] PHP Stack trace:
+[03-Dec-2018 12:57:34 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:0
+[03-Dec-2018 12:57:34 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:10
+[03-Dec-2018 12:57:34 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin.php:31
+[03-Dec-2018 12:57:34 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:57:34 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:57:34 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:57:36 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:57:36 UTC] PHP Stack trace:
+[03-Dec-2018 12:57:36 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:0
+[03-Dec-2018 12:57:36 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:10
+[03-Dec-2018 12:57:36 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin.php:31
+[03-Dec-2018 12:57:36 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:57:36 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:57:36 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:57:41 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:57:41 UTC] PHP Stack trace:
+[03-Dec-2018 12:57:41 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:0
+[03-Dec-2018 12:57:41 UTC] PHP   2. require() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:17
+[03-Dec-2018 12:57:41 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-blog-header.php:13
+[03-Dec-2018 12:57:41 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:57:41 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:57:41 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:57:46 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:57:46 UTC] PHP Stack trace:
+[03-Dec-2018 12:57:46 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:0
+[03-Dec-2018 12:57:46 UTC] PHP   2. require() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:17
+[03-Dec-2018 12:57:46 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-blog-header.php:13
+[03-Dec-2018 12:57:46 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:57:46 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:57:46 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:58:29 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:58:29 UTC] PHP Stack trace:
+[03-Dec-2018 12:58:29 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:0
+[03-Dec-2018 12:58:29 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:10
+[03-Dec-2018 12:58:29 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin.php:31
+[03-Dec-2018 12:58:29 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:58:29 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:58:29 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:58:44 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:58:44 UTC] PHP Stack trace:
+[03-Dec-2018 12:58:44 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:0
+[03-Dec-2018 12:58:44 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:10
+[03-Dec-2018 12:58:44 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin.php:31
+[03-Dec-2018 12:58:44 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:58:44 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:58:44 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:59:48 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:59:48 UTC] PHP Stack trace:
+[03-Dec-2018 12:59:48 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin-ajax.php:0
+[03-Dec-2018 12:59:48 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin-ajax.php:22
+[03-Dec-2018 12:59:48 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:59:48 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:59:48 UTC] PHP   5. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 12:59:59 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 12:59:59 UTC] PHP Stack trace:
+[03-Dec-2018 12:59:59 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:0
+[03-Dec-2018 12:59:59 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:10
+[03-Dec-2018 12:59:59 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin.php:31
+[03-Dec-2018 12:59:59 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 12:59:59 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 12:59:59 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 13:00:03 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 13:00:03 UTC] PHP Stack trace:
+[03-Dec-2018 13:00:03 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:0
+[03-Dec-2018 13:00:03 UTC] PHP   2. require() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:17
+[03-Dec-2018 13:00:03 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-blog-header.php:13
+[03-Dec-2018 13:00:03 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 13:00:03 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 13:00:03 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 13:00:08 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 13:00:08 UTC] PHP Stack trace:
+[03-Dec-2018 13:00:08 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:0
+[03-Dec-2018 13:00:08 UTC] PHP   2. require() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:17
+[03-Dec-2018 13:00:08 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-blog-header.php:13
+[03-Dec-2018 13:00:08 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 13:00:08 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 13:00:08 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 13:00:11 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 13:00:11 UTC] PHP Stack trace:
+[03-Dec-2018 13:00:11 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:0
+[03-Dec-2018 13:00:11 UTC] PHP   2. require() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:17
+[03-Dec-2018 13:00:11 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-blog-header.php:13
+[03-Dec-2018 13:00:11 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 13:00:11 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 13:00:11 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 13:00:32 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 13:00:32 UTC] PHP Stack trace:
+[03-Dec-2018 13:00:32 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:0
+[03-Dec-2018 13:00:32 UTC] PHP   2. require() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\index.php:17
+[03-Dec-2018 13:00:32 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-blog-header.php:13
+[03-Dec-2018 13:00:32 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 13:00:32 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 13:00:32 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
+[03-Dec-2018 13:00:34 UTC] PHP Warning:  Use of undefined constant holaaaa - assumed 'holaaaa' (this will throw an Error in a future version of PHP) in C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-content\plugins\cuarto-plugin\cuarto-plugin.php on line 19
+[03-Dec-2018 13:00:34 UTC] PHP Stack trace:
+[03-Dec-2018 13:00:34 UTC] PHP   1. {main}() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:0
+[03-Dec-2018 13:00:34 UTC] PHP   2. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\plugins.php:10
+[03-Dec-2018 13:00:34 UTC] PHP   3. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-admin\admin.php:31
+[03-Dec-2018 13:00:34 UTC] PHP   4. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-load.php:37
+[03-Dec-2018 13:00:34 UTC] PHP   5. require_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-config.php:84
+[03-Dec-2018 13:00:34 UTC] PHP   6. include_once() C:\Users\Pablo Delgado\Desktop\cursoPHP\cursoPHP\wordpress\wp-settings.php:305
